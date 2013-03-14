@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/ball">
+        <file>1small.png</file>
+        <file>2small.png</file>
+        <file>3small.png</file>
+        <file>4small.png</file>
+        <file>5small.png</file>
+        <file>6small.png</file>
+        <file>7small.png</file>
+        <file>8small.png</file>
+        <file>9small.png</file>
+        <file>10small.png</file>
+        <file>11small.png</file>
+        <file>12small.png</file>
+        <file>13small.png</file>
+        <file>14small.png</file>
+        <file>15small.png</file>
+    </qresource>
+    <qresource prefix="/extra">
+        <file>1small.png</file>
+        <file>bonus.png</file>
+        <file>cameleon.png</file>
+        <file>hourglass.png</file>
+        <file>joker.png</file>
+        <file>skull.png</file>
+    </qresource>
+    <qresource prefix="/bigball">
+        <file>1med.png</file>
+        <file>2med.png</file>
+        <file>3med.png</file>
+        <file>4med.png</file>
+        <file>5med.png</file>
+        <file>6med.png</file>
+        <file>7med.png</file>
+        <file>8med.png</file>
+        <file>9med.png</file>
+        <file>10med.png</file>
+        <file>11med.png</file>
+        <file>12med.png</file>
+        <file>13med.png</file>
+        <file>14med.png</file>
+        <file>15med.png</file>
+    </qresource>
+</RCC>
